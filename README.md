@@ -1,5 +1,7 @@
 # Velocity — Project Docs
 
+<img width="1307" height="1008" alt="image" src="https://github.com/user-attachments/assets/e3a7e44c-22f9-4d08-bd18-38e4050893d9" />
+
 This is the documentation for **Velocity**, a personal dashboard built by a small team of collaborators:
 
 - **Velocity** — the inspiration
