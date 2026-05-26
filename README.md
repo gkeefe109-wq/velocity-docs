@@ -1,14 +1,12 @@
 # Velocity — Project Docs
 
-This is the documentation for **Velocity**, a personal dashboard project built by a small team:
+This is the documentation for **Velocity**, a personal dashboard project built by a small team of collaborators:
 
-| | |
-|---|---|
-| **Velocity** | the inspiration |
-| **Gary** | the old man with a plan |
-| **Kyle** | the next generation of thought |
-| **Corey** | the think partner, builder, and friend |
-| **Carla** | the eye candy confectioner |
+- **Velocity** — the inspiration
+- **Gary** — the old man with a plan
+- **Kyle** — the next generation of thought
+- **Corey** — the think partner, builder, and friend
+- **Carla** — the eye candy confectioner
 
 Velocity is a card-based web dashboard — you add cards to a canvas, each card pulls in live data or runs AI features. Cards can show things like sports scores, YouTube feeds, collectibles tracking, and AI-powered debate tools.
 
