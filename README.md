@@ -1,5 +1,7 @@
 # Velocity — Project Docs
 
+![Velocity logo](velocity.png)
+
 This is the documentation for **Velocity**, a personal dashboard built by a small team of collaborators:
 
 - **Velocity** — the inspiration
