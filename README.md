@@ -1,6 +1,6 @@
 # Velocity — Project Docs
 
-This is the documentation for **Velocity**, a personal dashboard project built by a small team of collaborators:
+This is the documentation for **Velocity**, a personal dashboard built by a small team of collaborators:
 
 - **Velocity** — the inspiration
 - **Gary** — the old man with a plan
